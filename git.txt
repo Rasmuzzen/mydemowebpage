@@ -20,7 +20,12 @@ git init
 git add .
 
 # altso for re commit
-git commit -am "working"  
+git commit -m "New update"  
+git push -u origin main
+
+dsse 4 oven over gør det vist
+
+
 
 git remote add origin https://github.com/Rasmuzzen/mydemowebpage.git
 git branch -M main
