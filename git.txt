@@ -1,0 +1,25 @@
+
+# scriptet setup
+echo "# mydemowebpage" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rasmuzzen/mydemowebpage.git
+git push -u origin main
+
+
+
+
+
+
+
+¤ Deploy from terminal
+
+git init
+git add .
+git commit -am "working" 
+
+git remote add origin https://github.com/Rasmuzzen/mydemowebpage.git
+git branch -M main
+git push -u origin main
